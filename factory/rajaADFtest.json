@@ -1,0 +1,9 @@
+{
+	"name": "rajaADFtest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "725ad8b6-f484-487f-b0ad-fbb8cc8f92e4",
+		"tenantId": "d7a3afce-67ac-45fb-b9c3-641e83410a9b"
+	}
+}
